@@ -16,7 +16,7 @@ This allows for better defaults for the Sonic Riders series of games(except for 
 ## Where can I get people to play with and get support?
 
 If you want to have fun amongst hundreds of players hungry for battle and get dedicated tech-support, you can join the ExGL Discord server. Without a doubt, the most active Sonic Riders community:
-discord.gg/exgl
+[Extreme Gear Labs Discord server](discord.gg/exgl)
 
 For more information on the mods themselves and to get a more detailed look at the Dolphin setup, you can find more information on the official ExGL website:
 https://www.exgearlabs.com/home
